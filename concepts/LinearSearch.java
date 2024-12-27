@@ -1,3 +1,4 @@
+package concepts;
 public class LinearSearch{
 
     private static boolean Search(int arr[],int key){
