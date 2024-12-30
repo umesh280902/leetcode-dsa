@@ -28,3 +28,5 @@ public class BubbleSort {
         }
     }
 }
+
+//best case complexity is o(n) and worst case is o(n^2);
