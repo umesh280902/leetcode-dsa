@@ -1,4 +1,4 @@
-package questions;
+package leetcode.Array;
 
 // Code
 // Testcase
