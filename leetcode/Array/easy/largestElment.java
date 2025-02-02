@@ -1,4 +1,4 @@
-package leetcode.Array;
+package leetcode.Array.easy;
 // Largest Element in Array
 // Difficulty: BasicAccuracy: 67.48%Submissions: 405K+Points: 1
 // Given an array arr[]. The task is to find the largest element and return it.
