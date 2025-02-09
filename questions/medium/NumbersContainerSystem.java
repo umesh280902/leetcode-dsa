@@ -39,6 +39,10 @@
 
 // 1 <= index, number <= 109
 // At most 105 calls will be made in total to change and find.
+
+import java.util.HashMap;
+import java.util.TreeSet;
+
 public class NumbersContainerSystem {
     
 class NumberContainers {

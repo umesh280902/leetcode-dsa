@@ -37,6 +37,8 @@
 // 1 <= nums.length <= 105
 // 1 <= nums[i] <= 109
 
+import java.util.HashMap;
+
 public class BadPairs {
     class Solution {
         public long countBadPairs(int[] nums) {

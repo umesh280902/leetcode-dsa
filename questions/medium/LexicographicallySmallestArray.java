@@ -45,6 +45,12 @@
 // 1 <= nums[i] <= 109
 // 1 <= limit <= 109
 
+import java.util.ArrayDeque;
+import java.util.Arrays;
+import java.util.Deque;
+import java.util.HashMap;
+import java.util.Map;
+
 public class LexicographicallySmallestArray{
 class Solution {
     public int[] lexicographicallySmallestArray(int[] nums, int limit) {

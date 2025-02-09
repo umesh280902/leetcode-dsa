@@ -45,6 +45,15 @@
 // ai != bi
 // There is at most one edge between any pair of vertices.
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+import java.util.Queue;
+import java.util.Set;
+
 public class DivideGraphIntoGroups {
     class Solution {
         public int magnificentSets(int n, int[][] edges) {

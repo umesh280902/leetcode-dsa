@@ -1,4 +1,4 @@
-package questions.medium;
+
 
 // Code
 

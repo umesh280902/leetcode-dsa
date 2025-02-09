@@ -72,7 +72,6 @@ public class MaximumFish {
         public int findMaxFish(int[][] grid) {
             int m=grid.length;
             int n=grid[0].length;
-            Queue<Integer> queue=new LinkedList<>();
             int answer=0;
             for(int i=0;i<m;i++){
                 for(int j=0;j<n;j++){

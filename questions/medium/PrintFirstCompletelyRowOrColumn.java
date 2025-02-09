@@ -1,11 +1,4 @@
-package medium;
-// 2661. First Completely Painted Row or Column
-// Solved
-// Medium
-// Topics
-// Companies
-// Hint
-// You are given a 0-indexed integer array arr, and an m x n integer matrix mat. arr and mat both contain all the integers in the range [1, m * n].
+
 
 // Go through each index i in arr starting from index 0 and paint the cell in mat containing the integer arr[i].
 

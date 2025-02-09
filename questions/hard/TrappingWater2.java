@@ -1,4 +1,3 @@
-package hard;
 // 407. Trapping Rain Water II
 // Solved
 // Hard
