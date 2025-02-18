@@ -54,3 +54,21 @@ public class rotateArray {
         }
     }
 }
+
+
+//for rotating to left 
+class Solution {
+    public void rotateLeft(int[] nums, int k) {
+        int n = nums.length;
+        k = k % n; // Ensure k is within bounds
+        int[] rotated = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            rotated[i] = nums[(i + k) % n]; // Shift elements to the left
+        }
+
+        for (int i = 0; i < n; i++) {
+            nums[i] = rotated[i]; // Copy back to the original array
+        }
+    }
+}
