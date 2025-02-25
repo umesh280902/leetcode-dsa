@@ -1,4 +1,4 @@
-package leetcode.Array;
+package leetcode.Array.medium;
 // 75. Sort Colors
 // Solved
 // Medium

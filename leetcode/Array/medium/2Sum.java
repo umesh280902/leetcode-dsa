@@ -1,3 +1,4 @@
+package leetcode.Array.medium;
 // 1. Two Sum
 // Solved
 // Easy
